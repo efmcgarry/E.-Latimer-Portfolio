@@ -9,7 +9,7 @@ I'm looking forward to using what I learn in this class to better depict visuals
 
 # Portfolio
 ## Data Viz Critique #1: The Economist
-//datawrapper.dwcdn.net/88t9I/1/
+https://datawrapper.dwcdn.net/88t9I/1/
 I chose to focus most heavily on Corbyn by graying out the opposition, and highlighting only his likes. I also changed the title to more closely align with what was being represented. I was unable to italicize and add a key to describe the political parties vs. the candidates, and I would have explained that more thoroughly if possible. I'm glad that this representation more clearly depicts the vast difference in likes between Corbyn and the other parties, as it's important to note. I wasn't sure if we could delete information here, because I probably would have deleted the political parties to only focus on the candidates specifically.
 
 More to come soon!
