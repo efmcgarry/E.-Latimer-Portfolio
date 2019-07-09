@@ -8,4 +8,8 @@ My name is Erin Latimer and I'm a student in the MPM Program through Heinz Colle
 I'm looking forward to using what I learn in this class to better depict visuals required for my role, and to use them as support when proposing changes within the office. My office is a data-driven office, which really motivated me in choosing this course specifically.
 
 # Portfolio
-More to come here!
+## Data Viz Critique #1: The Economist
+<iframe title="Social Media Popularity" aria-label="Bar Chart" id="datawrapper-chart-88t9I" src="//datawrapper.dwcdn.net/88t9I/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+I chose to focus most heavily on Corbyn by graying out the opposition, and highlighting only his likes. I also changed the title to more closely align with what was being represented. I was unable to italicize and add a key to describe the political parties vs. the candidates, and I would have explained that more thoroughly if possible. I'm glad that this representation more clearly depicts the vast difference in likes between Corbyn and the other parties, as it's important to note. I wasn't sure if we could delete information here, because I probably would have deleted the political parties to only focus on the candidates specifically.
+
+More to come soon!
