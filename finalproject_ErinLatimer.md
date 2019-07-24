@@ -11,3 +11,4 @@ For my final project, I'd like to take a look at phone log data for my office, a
 https://cmu.box.com/s/gpfe0yvjm9sxc2thjziei65ebaqweq46
 
 ## Method & Medium
+I intend to use Shorthand to display my final project, in order to tell the entire story. I'd like to talk about the background of why the practice is in place, as well as talk about some challenges or concerns with changing in order to address them directly and beforehand. Then I'd like to display data that supports making changes. Throughout all of this, I think Shorthand will provide me with the flexibility to both explain and visuaize. From what I gather, the tool has the ability to be both simple and powerful simultaneously. Because of the timeline that effects our call volume, I'm hoping shorthand may allow me to display that timeline like a story, for maximum impact.
