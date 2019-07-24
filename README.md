@@ -36,6 +36,9 @@ I had a hard time with this visual. I imagine that if I were working for the Dep
 
 I utilized red to mean a caution here, and then chose grey for the chart in order not to draw attention. The second chart being smaller and less obvious was to make it look like it supported the original chart, and essentially that one would lead to the other.
 
+## Data Viz #2: OECD Data Visualization
+
+
 ## Final Project
 [Check out my final project!](/finalproject_ErinLatimer.md)
 
