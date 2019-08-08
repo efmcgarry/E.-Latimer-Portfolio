@@ -15,3 +15,6 @@ I intend to use Shorthand to display my final project, in order to tell the enti
 
 # Final Project Part II
 [Wireframe of project](https://balsamiq.cloud/svs36g1/pvzjc64)
+
+# Final Project Part III
+[Shorthand project story] (https://carnegiemellon.shorthandstories.com/2018-19CallVolume/index.html)
